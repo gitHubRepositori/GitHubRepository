@@ -10,6 +10,7 @@ import java.util.*;
 
 
 public class Main {
+    // коммит для Git
     private static String url = "https://onlinesim.ru/price-list";
     private static String path = "/Users/roman/Desktop/Keepcode.json";
     
