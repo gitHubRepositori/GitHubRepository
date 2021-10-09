@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Морской бой:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/__jar</output-path>
+    <root id="archive" name="Морской бой.jar">
+      <element id="module-output" name="Морской бой" />
+    </root>
+  </artifact>
+</component>
